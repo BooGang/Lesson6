@@ -79,5 +79,5 @@ result.front
 let personResult = result.Filter(predicate: {$0.numbers == 1})
 print(personResult)
 
-
+//изменения 
 
