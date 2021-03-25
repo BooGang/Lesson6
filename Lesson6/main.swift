@@ -15,7 +15,7 @@ struct Accounting {
 
 extension Accounting: CustomStringConvertible {
     var description : String {
-        return "Name: \(name), Mark: \(numbers)"
+        return "Name: \(name) and Number: \(numbers)"
     }
 }
 
